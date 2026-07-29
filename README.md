@@ -141,3 +141,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - [Appwrite](https://appwrite.io/) for the backend infrastructure
 - [TinyMCE](https://www.tiny.cloud/) for the rich text editor
+
+---
+
+## Published By
+- [Rimsha Maken]
